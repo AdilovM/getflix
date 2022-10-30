@@ -1,6 +1,6 @@
 # Getflix
 
-> Don't know what to watch when you are bored? Create an account with Getflix and browse the recent movies and keep track of your watch history.
+> Don't know what movie to watch when you are bored? Create an account with Getflix and browse all the recent movies and keep track of your watch history.
 
 ## Installation
 1. Fork the project and clone to your local repository
@@ -14,6 +14,10 @@
 
 
 ## Feature Demos
+
+#### Landing Page
+
+Built by [David Truong](https://github.com/davidltruong)
 
 #### Authentication
 
@@ -30,6 +34,9 @@ Built by [Minwen Liu](https://github.com/tidibubu) & [Andrew Sawadichai](https:/
 #### Profile Page
 
 Built by [Shiwei Chen](https://github.com/shiweicc) & [Miras Adilov](https://github.com/AdilovM)
+
+The profile page has features that allow the user to view and update current account information and browse and edit watch history. By clicking the 'Update username' or 'Update password' button, the user will be directed to other pages to update username or password. By browsing watch history in the carousel, the user can remove each movie from the history by clicking the 'X' button, or they can clear the history by clicking the 'Clear History' button on the right corner of the carousel.
+
 
 #### Click Tracking
 

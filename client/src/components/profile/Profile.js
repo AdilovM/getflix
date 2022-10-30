@@ -36,7 +36,7 @@ const Profile = (props) => {
       <img className='profile-logo' alt='logo' src={pic} ></img>
       <button className='profile-backBtn' id='home-btn' onClick={() => {navigateMainPage()}}> Home </button>
       <button className='profile-updatePWBtn' id='update-pwd-btn' onClick={() => {navigateToUpdatePwd()}}> Update password </button>
-      <button className='profile-updateUsernameBtn' id='update-usr-btn' onClick={() => {navigateToUpdateUsername()}}> Update user </button>
+      <button className='profile-updateUsernameBtn' id='update-usr-btn' onClick={() => {navigateToUpdateUsername()}}> Update username </button>
       <UserInfo userName={props.userName} userEmail={props.userEmail}/>
       {history}
       </div>
