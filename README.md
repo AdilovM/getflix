@@ -36,15 +36,6 @@ Built by [Shiwei Chen](https://github.com/shiweicc) & [Miras Adilov](https://git
 Built by [Gene Yang](https://github.com/gyhcy)
 
 
-## Contributors
-
-- [Andrew Sawadichai](https://github.com/asawadichai) (Software Engineer)
-- [Chris Baharians](https://github.com/cbaharian) (Software Engineer)
-- [David Truong](https://github.com/davidltruong) (Software Engineer)
-- [Gene Yang](https://github.com/gyhcy) (Software Engineer)
-- [Minwen Liu](https://github.com/tidibubu) (UI Owner & Software Engineer)
-- [Miras Adilov](https://github.com/AdilovM) (Architecture Owner & Software Engineer)
-- [Shiwei Chen](https://github.com/shiweicc) (Product Manager & Software Engineer)
 
 ## Tech Stack
 <table>
@@ -108,3 +99,12 @@ Built by [Gene Yang](https://github.com/gyhcy)
   </tbody>
 </table>
 
+## Contributors
+
+- [Andrew Sawadichai](https://github.com/asawadichai) (Software Engineer)
+- [Chris Baharians](https://github.com/cbaharian) (Software Engineer)
+- [David Truong](https://github.com/davidltruong) (Software Engineer)
+- [Gene Yang](https://github.com/gyhcy) (Software Engineer)
+- [Minwen Liu](https://github.com/tidibubu) (UI Owner & Software Engineer)
+- [Miras Adilov](https://github.com/AdilovM) (Architecture Owner & Software Engineer)
+- [Shiwei Chen](https://github.com/shiweicc) (Product Manager & Software Engineer)
