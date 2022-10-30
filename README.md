@@ -4,7 +4,7 @@
 
 ## Installation
 1. Fork the project and clone to your local repository
-2. In client and server directory, install all the packages and dependencies by running:
+2. In client and server directories, install all the packages and dependencies by running:
   ``` npm install```
 3. In client directory, run webpack at local development mode:
   ```npm run build ```
