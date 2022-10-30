@@ -1,6 +1,6 @@
 # Getflix
 
-> An online database of information about movies. Don't know what to watch when you are bored? Create an account with getflix and brower the recent movies and keep track of your watched history.
+> Don't know what to watch when you are bored? Create an account with getflix and brower the recent movies and keep track of your watched history.
 
 ## Installation
 1. Fork the project and clone to your local repository
