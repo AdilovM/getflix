@@ -12,35 +12,17 @@
   ```npm start ```
 6. Visit http://localhost:3000 to start the page
 
+#### Authentication Page
 
-## Feature Demos
+A user can create a getflix profile by signing up and log into account via login page.
 
-#### Landing Page
-
-Built by [David Truong](https://github.com/davidltruong)
-
-#### Authentication
-
-Built by [Chris Baharians](https://github.com/cbaharian) & [Miras Adilov](https://github.com/AdilovM)
-
-#### Main Page
-
-Built by [David Truong](https://github.com/davidltruong) & [Gene Yang](https://github.com/gyhcy)
-
-#### Detail Page
-
-Built by [Minwen Liu](https://github.com/tidibubu) & [Andrew Sawadichai](https://github.com/asawadichai)
+Built by [Miras Adilov](https://github.com/AdilovM)
 
 #### Profile Page
 
 Built by [Shiwei Chen](https://github.com/shiweicc) & [Miras Adilov](https://github.com/AdilovM)
 
 The profile page has features that allow the user to view and update current account information and browse and edit watch history. By clicking the 'Update username' or 'Update password' button, the user will be directed to other pages to update username or password. By browsing watch history in the carousel, the user can remove each movie from the history by clicking the 'X' button, or they can clear the history by clicking the 'Clear History' button on the right corner of the carousel.
-
-
-#### Click Tracking
-
-Built by [Gene Yang](https://github.com/gyhcy)
 
 
 
@@ -108,10 +90,5 @@ Built by [Gene Yang](https://github.com/gyhcy)
 
 ## Contributors
 
-- [Andrew Sawadichai](https://github.com/asawadichai) (Software Engineer)
-- [Chris Baharians](https://github.com/cbaharian) (Software Engineer)
-- [David Truong](https://github.com/davidltruong) (Software Engineer)
-- [Gene Yang](https://github.com/gyhcy) (Software Engineer)
-- [Minwen Liu](https://github.com/tidibubu) (UI Owner & Software Engineer)
 - [Miras Adilov](https://github.com/AdilovM) (Architecture Owner & Software Engineer)
 - [Shiwei Chen](https://github.com/shiweicc) (Product Manager & Software Engineer)
